@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ResumeApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="lorem_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. </string>
+    <string name="job_name">Mobile Developer &amp; Intern\n<b>HNG9</b></string>
+    <string name="lorem_text2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</string>
+    <string name="name">Onotu\nUmoru\n<small><i>@Ojerry</i></small></string>
+    <string name="current_job_post">Current Job Post</string>
+    <string name="socials">Socials</string>
+    <string name="about_yourself">An enthusiastic and Highly flexible individual with experience in software development and system administration. Skilled in the use of various frontend and backend technologies. Possess strong working knowledge of algorithms and data structures. Have a deep interest in creating digital solutions</string>
+    <string name="diploma">Computer Science Diploma</string>
+    <string name="uniccon_exp">Worked as a software developer and IT support responsible for the development of digital products and administatrion of IT infrastructure</string>
+    <string name="alx">Software developement training. One year of Intense training in all aspects of software development, ICT(DevOps, Programming, Networking)</string>
+    <string name="kodecamp">Four months of intensive android development training. Was opportune to learn the fundamentals of android</string>
+    <string name="cafe">Attendant at a cybercafe, I was responsible for the operation and management of technical aspect of a cybercafe business</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
