@@ -28,9 +28,9 @@ class PortfolioFragment : Fragment(), PortfolioCallback {
     rv_portfolio = view.findViewById(R.id.rv_portfolio)
 
     mdata = ArrayList()
-    (mdata as ArrayList<PortfolioItem>).add(PortfolioItem("P1", "second", R.drawable.ic_baseline_location_on_24))
-    (mdata as ArrayList<PortfolioItem>).add(PortfolioItem("P2", "second", R.drawable.ic_baseline_location_on_24))
-    (mdata as ArrayList<PortfolioItem>).add(PortfolioItem("P3", "second", R.drawable.ic_baseline_location_on_24))
+    (mdata as ArrayList<PortfolioItem>).add(PortfolioItem("P1", "second", R.drawable.userillust))
+    (mdata as ArrayList<PortfolioItem>).add(PortfolioItem("P2", "second", R.drawable.userillust))
+    (mdata as ArrayList<PortfolioItem>).add(PortfolioItem("P3", "second", R.drawable.userillust))
     (mdata as ArrayList<PortfolioItem>).add(PortfolioItem("P4", "second", R.drawable.ic_baseline_location_on_24))
     (mdata as ArrayList<PortfolioItem>).add(PortfolioItem("P5", "second", R.drawable.ic_baseline_location_on_24))
     (mdata as ArrayList<PortfolioItem>).add(PortfolioItem("P6", "second", R.drawable.ic_baseline_location_on_24))
