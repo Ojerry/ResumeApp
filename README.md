@@ -14,6 +14,8 @@ Last menu item is Portfolio fragment, implements recycler view and grid layout: 
 
 Code was written solely in kotlin and app features is easily extented
 
+# Link to the APK file
+https://github.com/Ojerry/ResumeApp/tree/main/apkbuild
 
 # Appetize link
 https://appetize.io/app/jys7vd46tacrvcewd2s656yuqu?device=pixel4&osVersion=11.0&scale=75
